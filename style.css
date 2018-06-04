@@ -1,0 +1,519 @@
+/*
+ Theme Name:   Zerif-lite Child
+ Theme URI:    http://wordpress49.base/zerif-lite-child
+ Description:  Zerif-lite Child Theme
+ Author:       Eclipse Software
+ Author URI:   http://wordpress49.base/
+ Template:     zerif-lite
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  zerif-lite-child
+ */
+
+/** Child theme style**/
+
+
+/****
+** Layout 1 
+****/
+
+
+/****
+** eclipse_vacancy 
+****/
+.vacancy-layout-1 #eclipse_vacancy 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-meta 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-lbl 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-lbl 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-val 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-val 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-action 
+****/
+.vacancy-layout-1 #eclipse_vacancy .vacancy-action 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** h2 
+****/
+#eclipse_job_board .vacancy-layout-1 h2 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** flag 
+****/
+.eclipse-recruitment #eclipse_job_board h2.flag img 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-date 
+****/
+.eclipse-recruitment #eclipse_job_board .vacancy-date 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-reference 
+****/
+.eclipse-recruitment #eclipse_job_board .vacancy-reference 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-description 
+****/
+#eclipse_job_board .vacancy-layout-1 .vacancy-description 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-description-p 
+****/
+#eclipse_job_board .vacancy-layout-1 .vacancy-description p 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** Layout 2 
+****/
+
+
+/****
+** eclipse_vacancy 
+****/
+.vacancy-layout-2 #eclipse_vacancy 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-meta 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-lbl 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-lbl 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-val 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-val 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-action 
+****/
+.vacancy-layout-2 #eclipse_vacancy .vacancy-action 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** h2 
+****/
+#eclipse_job_board .vacancy-layout-2 h2 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** flag 
+****/
+.eclipse-recruitment #eclipse_job_board h2.flag img 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-date 
+****/
+.eclipse-recruitment #eclipse_job_board .vacancy-date 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-reference 
+****/
+.eclipse-recruitment #eclipse_job_board .vacancy-reference 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-description 
+****/
+#eclipse_job_board .vacancy-layout-2 .vacancy-description 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-description-p 
+****/
+#eclipse_job_board .vacancy-layout-2 .vacancy-description p 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** Layout 3 
+****/
+
+
+/****
+** eclipse_vacancy 
+****/
+.vacancy-layout-3 #eclipse_vacancy 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-meta 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-lbl 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-lbl 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-val 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-val 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-action 
+****/
+.vacancy-layout-3 #eclipse_vacancy .vacancy-action 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** h2 
+****/
+#eclipse_job_board .vacancy-layout-3 h2 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** flag 
+****/
+.eclipse-recruitment #eclipse_job_board h2.flag img 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-date 
+****/
+.eclipse-recruitment #eclipse_job_board .vacancy-date 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-reference 
+****/
+.eclipse-recruitment #eclipse_job_board .vacancy-reference 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-description 
+****/
+#eclipse_job_board .vacancy-layout-3 .vacancy-description 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-description-p 
+****/
+#eclipse_job_board .vacancy-layout-3 .vacancy-description p 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** Layout 4 
+****/
+
+
+/****
+** eclipse_vacancy 
+****/
+.vacancy-layout-4 #eclipse_vacancy 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-meta 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-lbl 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-lbl 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vac-val 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-meta .vac-val 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-action 
+****/
+.vacancy-layout-4 #eclipse_vacancy .vacancy-action 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** h2 
+****/
+#eclipse_job_board .vacancy-layout-4 h2 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** flag 
+****/
+.eclipse-recruitment #eclipse_job_board h2.flag img 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-date 
+****/
+.eclipse-recruitment #eclipse_job_board .vacancy-date 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-reference 
+****/
+.eclipse-recruitment #eclipse_job_board .vacancy-reference 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-description 
+****/
+#eclipse_job_board .vacancy-layout-4 .vacancy-description 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
+
+
+/****
+** vacancy-description-p 
+****/
+#eclipse_job_board .vacancy-layout-4 .vacancy-description p 
+{
+    border:1px dashed #ccc;
+    color:red;
+
+}
