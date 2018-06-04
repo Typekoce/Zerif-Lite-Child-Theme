@@ -1,4 +1,4 @@
-# Child Theme
+#Zerif Lite Child Theme
 
 One Paragraph of project description goes here
 
